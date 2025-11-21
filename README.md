@@ -3,7 +3,7 @@
 <!-- ───────────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://i.ibb.co/2t9CfqN/reizmedya-logo.png" width="230" style="border-radius:50%;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeLHCjRz2WQxVGSAQYG1tGtZ7aNmH8la_JaA&s" width="230" style="border-radius:50%;" />
 </p>
 
 <p align="center">
