@@ -1,15 +1,15 @@
-REİZ — Mustafa Çoban
-Full-Stack Developer • AI & Cyber Security Enthusiast • Founder of REİZMEDYA
-“Kod benim için meslek değil, kaderimdi.”
-🧬 1) Hakkımda – Geçmişten Bugüne REİZ Hikayesi
+🦅 REİZ — Mustafa Çoban
+<p align="center"> <img src="https://i.ibb.co/2t9CfqN/reizmedya-logo.png" width="180" /> </p> <p align="center"> <img src="https://img.shields.io/badge/FullStack-Developer-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/AI-Engineer-purple?style=for-the-badge" /> <img src="https://img.shields.io/badge/CyberSecurity-Researcher-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Founder-REİZMEDYA-black?style=for-the-badge" /> </p> <h3 align="center">“Kod benim için meslek değil, kaderimdi.”</h3>
+<div style="border-radius: 10px; padding: 20px; background: #0d1117; border: 1px solid #30363d;">
+🧬 1) HAKKIMDA – GEÇMİŞTEN BUGÜNE REİZ HİKAYESİ
 
 Ben Mustafa Çoban (REİZ).
 22 Ekim 2004’te Kırşehir’de doğdum.
-Çocukluk hayalim polis veya asker olmaktı, ancak göz rahatsızlığım buna izin vermedi.
-Fakat vazgeçmek doğamda yoktu.
+Çocukluğumdan beri asker-polis olma hayalim vardı; göz rahatsızlığım nedeniyle bu mümkün olmadı.
+Ama vazgeçmek karakterimde yoktur.
 
-Bilgisayar ile tanıştığım gün hayatım değişti.
-Bugün;
+Bilgisayar ile tanıştığım gün hayatım tamamen değişti.
+Bugün:
 
 Web Geliştirme
 
@@ -23,57 +23,50 @@ Tasarım & Markalaşma
 
 Mobil Uygulama Geliştirme
 
-alanlarında Türkiye’nin en üretken genç geliştiricilerinden biri oldum.
+alanlarında Türkiye’nin en çok proje üreten genç geliştiricilerinden biri oldum.
 
-🚀 2) Eğitim & Kariyer Zaman Çizelgesi
+</div>
+<div style="border-radius: 10px; padding: 20px; background: #0d1117; border: 1px solid #30363d;">
+🚀 2) EĞİTİM & KARİYER ZAMAN ÇİZELGESİ
 📌 İlk Yıllar
 
 Vali Mithat Saylam İlköğretim / Yunusemre Ortaokulu
 
-Küçük yaşlardan beri bilgisayar merakı
+Bilgisayar merakı
 
-Unity ile ilk oyun geliştirme denemeleri
+Unity oyun geliştirme denemeleri
 
-HTML/CSS ile ilk web sayfaları
+HTML/CSS ile ilk web siteleri
 
 📌 Lise Dönemi
 
-Mehmet Akif Ersoy Anadolu Lisesi → (Haksız sınıf tekrarı deneyimi)
+Mehmet Akif Ersoy Anadolu Lisesi (haksız sınıf tekrarı)
 
-Endüstri Meslek Lisesi – Web Tasarım temeli
+Endüstri Meslek Lisesi – Web Tasarım
 
-İlk freelance projeler: logo, afiş, küçük web siteleri
+İlk freelance işler: logo, afiş, kurumsal ufak siteler
 
 📌 Üniversite: Ahi Evran Üniversitesi
 
 Web Tasarımı ve Kodlama Bölümü
 
-Bu dönem REİZ karakterinin oturduğu dönemdir:
-
-APDAS’ın temel fikri burada doğdu
+APDAS’ın fikrinin doğduğu dönem
 
 İlk kurumsal müşteri projeleri
 
-Üniversitede teknik destek veren tanınan öğrenci oldum
-
-UI/UX + Web + Backend birleşti ve Full-Stack çizgisi oluştu
+Kampüste teknik destek veren geliştirici olarak tanıma
 
 📌 2024–2025: Patlama Dönemi
 
-Next.js, React, MongoDB, FastAPI profesyonel seviyeye yükseldi
+Next.js, React, MongoDB, FastAPI profesyonel seviyeye çıktı
 
-İlk büyük e-ticaret projeleri
+E-ticaret projeleri
 
-Turizm siteleri, firmalarla anlaşmalar
-
-APDAS’ın kurumsal hâle gelmesi
+Turizm projeleri + kurumsal iş anlaşmaları
 
 📌 REİZMEDYA – Doğuş
 
-Kırşehir’de küçük bir marka değil;
-gelecekte ulusal ve global arenaya açılacak bir dijital teknoloji ajansı.
-
-REİZMEDYA bugün:
+Bugün REİZMEDYA:
 
 Web Geliştirme
 
@@ -85,123 +78,79 @@ Siber Güvenlik
 
 SEO
 
-Sosyal Medya Yönetimi
-
 Tasarım & Branding
 
-gibi alanları kapsayan full-stack bir dijital teknoloji ekosistemidir.
+Sosyal Medya Yönetimi
 
-🧠 3) Teknoloji Yetkinlikleri (Logolu)
+alanlarını kapsayan full-stack dijital teknoloji ajansıdır.
+
+</div>
+🧠 3) TEKNOLOJİ YETKİNLİKLERİ (LOGOLU)
 🔵 Frontend
 Teknoloji	Logo
-HTML5	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-
-CSS3	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
-
-JavaScript	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-
-React	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-
-Next.js	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg
-
-TailwindCSS	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg
+HTML5	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+CSS3	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+JavaScript	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+React	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+Next.js	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+TailwindCSS	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 🟢 Backend
 Teknoloji	Logo
-Node.js	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg
-
-FastAPI	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg
-
-Python	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-
-Express.js	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg
+Node.js	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40"/>
+FastAPI	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+Python	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+Express.js	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
 🟣 Veritabanı
 Teknoloji	Logo
-MongoDB	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
-
-MySQL	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+MongoDB	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+MySQL	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 🎨 Tasarım & Araçlar
 Araç	Logo
-Figma	https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg
-
-Adobe Illustrator	https://cdn-icons-png.flaticon.com/512/5968/5968525.png
-
-Canva	https://cdn-icons-png.flaticon.com/512/5968/5968520.png
-🏆 4) Ödüller & Başarılar
+Figma	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+Adobe Illustrator	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" width="40"/>
+Canva	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968520.png" width="40"/>
+<div style="border-radius: 10px; padding: 20px; background: #0d1117; border: 1px solid #30363d;">
+🏆 4) ÖDÜLLER & BAŞARILAR
 
 🎖 TÜBİTAK 2209-A Araştırma Projesi Onayı
 
 🎖 APDAS – Üniversite Akademik Analiz Sistemi
 
-🎖 Turizm & E-Ticaret Projeleri Başarıları
+🎖 E-ticaret & turizm projeleri
 
-🎖 Yerel işletmelere yazılım & tasarım hizmetleri
+🎖 Yerel işletmeler için kurumsal yazılım projeleri
 
-🎖 Üniversitede teknik danışmanlık & destek
+🎖 Üniversitede teknik danışmanlık
 
 🎖 REİZMEDYA’nın resmi kuruluşu
 
-💻 5) Büyük Projelerim
+</div>
+💻 5) BÜYÜK PROJELER
 🟦 APDAS – Akademik Performans ve Ders Analiz Sistemi
-
-Üniversitenin tüm akademik yapısını dijitale taşıyan kurumsal sistem.
-Dashboard, analizler, 100+ sayfalık dökümantasyon.
-
 🟩 Reiz AI
-
-Çok dilli, geçmiş saklamalı, premium arayüzlü yapay zekâ platformu.
-
 🟧 Reiz Form (Next.js + MongoDB)
-
-Dinamik form oluşturma paneli ve yönetim ekranı.
-
-🟪 Ayıntap Gross App (React Native / Expo)
-
-Gerçek market uygulaması – kategori, sepet, ödeme yapısı.
-
-🟨 Seyahat & Turizm Siteleri
-
-AslanTur.com
-
-Avşarlar
-
-Kanık Turizm
-
+🟪 Ayıntap Gross App
+🟨 AslanTur.com
 🟥 GlowBeauty
+🟫 REİZWEB | REİZMOBİL | Sohbet Uygulaması Projesi
+📬 6) İLETİŞİM
 
-Perfume & beauty e-ticaret platformu.
+Mail: reizmedya@gmail.com
 
-📱 Ek Projeler
+Website: reizmedya.com
 
-REİZWEB – Çok sayfalı kurumsal web yapısı
+GitHub: github.com/lordafk40
 
-REİZMOBİL – Mobil uygulama fikirleri & tasarım temelleri
+LinkedIn: reiz-medya-8a4231380
 
-Sohbet Uygulaması Projesi – Gerçek zamanlı mesajlaşma altyapısı
+Instagram: @reizmedya
 
-📬 6) İletişim Bilgileri
-
-📧 Mail: reizmedya@gmail.com
-
-🌍 Website: reizmedya.com
-
-🐙 GitHub: github.com/lordafk40
-
-💼 LinkedIn: https://www.linkedin.com/in/reiz-medya-8a4231380
-
-📱 Instagram: instagram.com/reizmedya
-
-🏆 7) GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=lordafk40&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-📊 8) GitHub Readme Stats
-![Reiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lordafk40&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordafk40&layout=compact&theme=radical)
-
-🧩 9) LeetCode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=reiz00&theme=dark&font=baloo&extension=null)
-
-🔥 10) REİZMEDYA Final Kapanış Cümlesi (Ultra Pro)
+🏆 GitHub Trophy
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lordafk40&theme=onedark&no-frame=true&margin-w=15" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lordafk40&show_icons=true&theme=radical" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordafk40&layout=compact&theme=radical" /> </p>
+🧩 LeetCode Stats
+<p align="center"> <img src="https://leetcode.card.workers.dev/?username=reiz00&theme=dark&font=baloo&extension=null" /> </p>
 ⭐ **“Biz kod yazmıyoruz; sistem kuruyoruz.
 
 Vizyonumuz Türkiye’den başlar, dünyada tamamlanır.
